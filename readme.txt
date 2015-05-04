@@ -1,2 +1,2 @@
 hello is a distribute version control system!
-this is a repos
+Git is free software distributed under the GPL.
